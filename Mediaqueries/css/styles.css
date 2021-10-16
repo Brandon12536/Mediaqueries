@@ -1,0 +1,36 @@
+.navbar-custom-color
+{
+    background-color: #000000;
+    color:rgb(255, 7, 102);
+}
+@media screen and (max-width: 1920px)
+{
+    body
+    {
+        background-color: rgb(253, 122, 0);
+    }
+}
+@media screen and (max-width: 1280px)
+{
+    body
+    {
+        background-color: rgb(3, 118, 248);
+    }
+}
+@media screen and (max-width: 800px)
+{
+    body
+    {
+        background-color: rgb(30, 253, 0);
+    }
+}
+@media screen and (max-width: 480px)
+{
+    body
+    {
+        background-color: rgb(250, 2, 126);
+    }
+}
+footer {
+    background: #212529;
+  }
